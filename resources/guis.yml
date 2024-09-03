@@ -45,6 +45,7 @@ guis:
   # Free tier only works with local and public repositories
   price: Free / $48+/user annually
   license: Proprietary
+  trend_name: GitKraken
   order: 5
 - name: Magit
   url: https://magit.vc
